@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\britt\\reposTC\\OperatorExercise\\OperatorExercise\\OperatorExercise.csproj": {}
+    "C:\\Users\\britt\\reposTC\\mathOperations-operatorsExercise1\\OperatorExercise\\OperatorExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\britt\\reposTC\\OperatorExercise\\OperatorExercise\\OperatorExercise.csproj": {
+    "C:\\Users\\britt\\reposTC\\mathOperations-operatorsExercise1\\OperatorExercise\\OperatorExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\britt\\reposTC\\OperatorExercise\\OperatorExercise\\OperatorExercise.csproj",
+        "projectUniqueName": "C:\\Users\\britt\\reposTC\\mathOperations-operatorsExercise1\\OperatorExercise\\OperatorExercise.csproj",
         "projectName": "OperatorExercise",
-        "projectPath": "C:\\Users\\britt\\reposTC\\OperatorExercise\\OperatorExercise\\OperatorExercise.csproj",
+        "projectPath": "C:\\Users\\britt\\reposTC\\mathOperations-operatorsExercise1\\OperatorExercise\\OperatorExercise.csproj",
         "packagesPath": "C:\\Users\\britt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\britt\\reposTC\\OperatorExercise\\OperatorExercise\\obj\\",
+        "outputPath": "C:\\Users\\britt\\reposTC\\mathOperations-operatorsExercise1\\OperatorExercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\britt\\AppData\\Roaming\\NuGet\\NuGet.Config",
